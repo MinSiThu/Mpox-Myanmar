@@ -4,7 +4,7 @@ Data Resources about Mpox(MonkeyPox) in Myanmar
 
 **Mpox-Myanmar** is a dataset about Mpox(MonkeyPox virus) in Burmese Language.
 
-Mpox(MonkeyPox) is becoming world wide alert virus. Thus, the information dataset about mpox is to be built for building applications for knowledge and educating the public audience about mpox.
+Mpox(MonkeyPox) is becoming a wide alert virus. Thus, the information dataset about mpox will be built to build applications for knowledge and educate the public about mpox.
 
 The dataset is gathered from the following web pages.
 
@@ -25,14 +25,14 @@ Short answers are extracted from fact-checked information from World Health Orga
 
 ### Citation
 
-If you found this dataset is useful, please add the following citation obviously in your projects.
+If you found this dataset useful, please add the following citation to your projects.
 
 ```txt
 @misc{Mpox-Myanmar,
   author = {{MinSiThu}},
   title = {Mpox-Myanmar},
   version={1}
-  url = {https://huggingface.co/jojo-ai-mst/MyanmarGPT},
+  url = {https://github.com/MinSiThu/Mpox-Myanmar},
   urldate = {2024-08-31}
   date = {2024-08-31},
 }
@@ -42,5 +42,5 @@ If you found this dataset is useful, please add the following citation obviously
 
 [Min Si Thu - LinkedIn](https://www.linkedin.com/in/min-si-thu/)
 
-#### This is a part of activities of [MyanmarGPT-Movement](https://github.com/MyanmarGPT-Movement).
+#### This is a part of the activities of [MyanmarGPT-Movement](https://github.com/MyanmarGPT-Movement).
 
